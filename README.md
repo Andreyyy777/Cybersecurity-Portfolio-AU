@@ -63,3 +63,11 @@ This portfolio reflects structured investigative methodology developed through 8
 
 To demonstrate analytical capability, structured reasoning, and investigation methodology aligned with SOC and Threat Intelligence entry-level roles in Australia.
 
+
+## Practical SOC Lab Cases
+
+### Case 003 — Windows Process Creation and Logon Correlation
+
+Investigated Windows Security events 4624 and 4688, reconstructed parent–child process relationships, validated command-line auditing, and verified exported EVTX evidence using SHA-256.
+
+[Read the full case study](case-studies/SOC_Case_003_Process_Creation_and_Logon_Correlation%20%281%29.md)
