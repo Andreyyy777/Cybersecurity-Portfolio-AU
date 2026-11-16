@@ -1,0 +1,18 @@
+{
+  "report_id": "PG-SVR-2026-028",
+  "generated_utc": "2026-11-16 07:52 UTC",
+  "evidence_basis": "operator-supplied Terminal logs",
+  "files": [
+    {
+      "path": "server.py",
+      "sha256": "e7c41b671efb354bc65673d520e784aaa64ab89581e0201f36a396eb0590bb75",
+      "role": "reviewed application source"
+    },
+    {
+      "path": "SECURITY_VALIDATION_REPORT.md",
+      "sha256": "f61963189af40d65b8e207ba95bc03d8619a9b3707939117ca9c41bbd205f1d4",
+      "role": "security validation report"
+    }
+  ],
+  "publication_note": "Public copy with relative evidence paths. The referenced server.py source is not included. Its recorded digest cannot be independently verified without the source file."
+}
